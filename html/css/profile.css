@@ -1,0 +1,63 @@
+.title {
+    display:inline block;
+    width: 100%;
+    font-family: "Helvetica Neue";
+    color: #2d3c49;
+    text-align: left;
+}
+.content{
+	font-family: "Helvetica Neue";
+	clear: both;
+}
+#occupation{
+	text-align: right;
+}
+#name{
+	font-size: 40px;
+}
+hr{
+	clear: both;
+	background-color: #7d97ad; 
+	height: 3px; 
+	border: 0;
+}
+#featured{
+	color: #7d97ad;
+	padding-left: 20px;
+}
+#app{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo{
+	float:left;
+}
+#identity{
+	float:right;
+}
+#appify{
+	display: inline block;
+	float: left;
+	width: 33%;
+	text-align: center;
+	color: #2d3c49;
+}
+#sunflower{
+	display: inline block;
+	float: left;
+	width: 33%;
+	text-align: center;
+	color: #2d3c49;
+}
+#bokeh{
+	display: inline block;
+	float: left;
+	width: 33%;
+	text-align: center;
+	color: #2d3c49;
+}
